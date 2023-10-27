@@ -4,7 +4,6 @@
 using namespace std;
 int main()
 {
-char name[100];
 double p, r, t;
 
 printf("Enter your name: ");
